@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshivade&label=Profile%20views&color=0e75b6&style=flat" alt="rajshivade" /> </p>
 
-- 🌱 I’m currently learning **Python , Data science**
+- 🌱 I’m currently learning **Python,  Data Analytics,  Data science**
 
-- 💬 Ask me about **Python Programing , Data Analysis , Data Visualization**
+- 💬 Ask me about **Python Programing ,  Data Analysis ,  Data Visualization**
 
-- 📫 How to reach me **rajshivade25@gmail.com**
+- 📫 How to reach me **rajshivade25@gmail.com**, **rajshivade11@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
