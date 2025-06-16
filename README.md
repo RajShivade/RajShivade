@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,  Data Analytics,  Data Science**
 
-- 💬 Ask me about **Python Programing ,  Data Analysis ,  Data Visualization**
+- 💬 Ask me about **Python Programming, SQL, Power BI, Excel, Statistics,  Data Analysis, Data Visualization**
 
 - 📫 How to reach me **rajshivade25@gmail.com**, **rajshivade11@gmail.com**
 
