@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python Programming, SQL, Power BI, Excel, Statistics,  Data Analysis, Data Visualization**
 
-- 📫 How to reach me **rajshivade25@gmail.com**, **rajshivade11@gmail.com**
+- 📫 How to reach me **rajshivade25@gmail.com**,     **rajshivade11@gmail.com**
 
 - ⚡ Fun fact **I am Funny 😁**
 
