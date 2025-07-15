@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshivade&label=Profile%20views&color=0e75b6&style=flat" alt="rajshivade" /> </p>
 
-- 🌱 I’m currently learning **Python,  Data Analytics,  Data Science**
+- 🌱 I’m currently learning **Python,  Data Analytics,  Data Science,  Machine Learning,  Natural Language Processing(NLP)**
 
 - 💬 Ask me about **Python Programming, SQL, Power BI, Excel, Statistics,  Data Analysis, Data Visualization**
 
