@@ -1,6 +1,6 @@
 ![logo](https://github.com/RajShivade/RajShivade-/blob/main/WhatsApp%20Image%202024-01-12%20at%2021.14.14_1c37b2fe.jpg)
 <h1 align="center">Hi 👋, I'm Raj Shivade</h1>
-<h3 align="center">A passionate Data Analyst and Python Developer.</h3>
+<h3 align="center">A passionate Data Analyst and Data Scientist.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshivade&label=Profile%20views&color=0e75b6&style=flat" alt="rajshivade" /> </p>
