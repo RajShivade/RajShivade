@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,  Data Analytics,  Data Science,  Machine Learning, Deep Learning, Natural Language Processing(NLP), GenAi, AgenticAi**
 
-- 💬 Ask me about **Python Programming, SQL, Power BI, Excel, Statistics,  Data Analysis, Data Visualization**
+- 💬 Ask me about **Python Programming, SQL, Power BI, Excel, Statistics, Data Analysis, Data Visualization, Generative Ai, N8N Automation, LLM Models, LangChain Models, ANN, OpenCv, CNN, RNN, AI**
 
 - 📫 How to reach me **rajshivade25@gmail.com**,     **rajshivade11@gmail.com**
 
