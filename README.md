@@ -9,7 +9,10 @@
 
 - 💬 Ask me about **Python Programming, SQL, Power BI, Excel, Statistics, Data Analysis, Data Visualization, Generative Ai, N8N Automation, LLM Models, LangChain Models, ANN, OpenCv, CNN, RNN, AI**
 
-- 📫 How to reach me **rajshivade25@gmail.com**,     **rajshivade11@gmail.com**
+- 🌐 Open-source contributor and technical writer, dedicated to building beginner-friendly, well-documented repositories. I actively share practical insights on AI and Data Science through my Medium blog to foster learning, collaboration, and community growth.
+**Medium:** https://medium.com/@rajshivade11
+
+- 📫 How to reach me **rajshivade25@gmail.com**,       **rajshivade11@gmail.com**
 
 - ⚡ Fun fact **I am Funny 😁**
 
